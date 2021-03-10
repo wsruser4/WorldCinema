@@ -14,6 +14,6 @@ class LaunchScreen : AppCompatActivity() {
             val intent = Intent(this, SignUpScreen::class.java)
             startActivity(intent)
             finish()
-        }, 1500)
+        }, 3000)
     }
 }

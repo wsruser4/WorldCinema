@@ -30,7 +30,7 @@ class SignInScreen : AppCompatActivity() {
         frameLayout1.isEnabled = isCanEmail
 
         frameLayout1.setOnClickListener{
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, MainScreen::class.java)
             startActivity(intent)
         }
 

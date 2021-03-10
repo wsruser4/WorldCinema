@@ -9,4 +9,12 @@
     <string name="sname">Фамилия</string>
     <string name="open">Войти</string>
     <string name="registration">Регистрация</string>
+    <string name="watch">Смотреть</string>
+    <string name="trand">В тренде</string>
+    <string name="trends">В тренде</string>
+    <string name="foryou">Для вас</string>
+    <string name="novoe">new</string>
+    <string name="news">Новое</string>
+    <string name="youw">Вы смотрели</string>
+    <string name="altered_carbon">Altered Carbon</string>
 </resources>
