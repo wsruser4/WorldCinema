@@ -30,7 +30,6 @@ class SignUpScreen : AppCompatActivity() {
 
         isCanEmailVer = isEmailValid(et1.text)
 
-        txt.text = isCanEmailVer.toString()
         if (etn.getText().toString().equals("")) {
             isCanName = false
             etn.error = "Заполните поле"

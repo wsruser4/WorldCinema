@@ -23,6 +23,8 @@ class SignInScreen : AppCompatActivity() {
             super.onCreate(savedInstanceState)
             setContentView(R.layout.activity_sign_in_screen)
 
+            var isCanEmail = false
+
             if (et1.getText().toString().equals("")) {
                 et1.error = "Заполните поле"
             } else {
