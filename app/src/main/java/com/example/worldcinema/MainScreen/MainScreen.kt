@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.worldcinema.MovieScreen
 import com.example.worldcinema.R
-import com.example.worldcinema.SignIn.SignInScreen
 import kotlinx.android.synthetic.main.activity_main_screen.*
 
 

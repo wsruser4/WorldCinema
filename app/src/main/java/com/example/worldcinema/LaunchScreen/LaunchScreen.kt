@@ -1,5 +1,6 @@
 package com.example.worldcinema.LaunchScreen
 
+import android.content.Context
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -14,9 +15,10 @@ class LaunchScreen : AppCompatActivity() {
         setContentView(R.layout.activity_launch_screen)
 
         Handler().postDelayed({
-            val intent = Intent(this, SignUpScreen::class.java)
-            startActivity(intent)
-            finish()
-        }, 1500)
+                val intent = Intent(this, SignUpScreen::class.java)
+                startActivity(intent)
+                finish()
+
+        }, 3000)
     }
 }
