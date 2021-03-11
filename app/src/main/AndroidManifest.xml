@@ -9,11 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-        <activity android:name=".MainScreen"></activity>
-        <activity android:name=".MainActivity" />
-        <activity android:name=".SignInScreen" />
-        <activity android:name=".SignUpScreen" />
-        <activity android:name=".LaunchScreen">
+        <activity android:name=".MainScreen.MainScreen"></activity>
+        <activity android:name=".MainActivity.MainActivity" />
+        <activity android:name=".SignIn.SignInScreen" />
+        <activity android:name=".SignUp.SignUpScreen" />
+        <activity android:name=".LaunchScreen.LaunchScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

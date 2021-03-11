@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainScreen"
+    tools:context=".MainScreen.MainScreen"
     android:background="@color/maincolor">
 
 <LinearLayout
@@ -191,7 +191,9 @@
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="wrap_content"
+        android:background="#1C1A19"
+        app:menu="@menu/button_menu"/>
 
 </LinearLayout>
 

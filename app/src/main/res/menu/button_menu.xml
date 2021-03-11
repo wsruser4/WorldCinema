@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="@string/glav" android:icon="@drawable/m1" android:id="@+id/firstFragment"/>
+    <item android:title="@string/podb" android:icon="@drawable/m2" android:id="@+id/secondFragment"/>
+    <item android:title="@string/collect" android:icon="@drawable/m3" android:id="@+id/thirdFragment" />
+    <item android:title="@string/prof" android:icon="@drawable/m4" android:id="@+id/fourthFragment" />
+</menu>

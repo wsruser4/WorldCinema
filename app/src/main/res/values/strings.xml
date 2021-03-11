@@ -17,4 +17,8 @@
     <string name="news">Новое</string>
     <string name="youw">Вы смотрели</string>
     <string name="altered_carbon">Altered Carbon</string>
+    <string name="glav">Главная</string>
+    <string name="podb">Подборка</string>
+    <string name="collect">Коллекции</string>
+    <string name="prof">Профиль</string>
 </resources>
