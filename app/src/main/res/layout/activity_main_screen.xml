@@ -36,6 +36,7 @@
         android:src="@drawable/shadow" />
 
             <FrameLayout
+                android:id="@+id/frameLayout3"
                 android:layout_width="144dp"
                 android:layout_height="44dp"
                 android:background="@drawable/colorbutton"

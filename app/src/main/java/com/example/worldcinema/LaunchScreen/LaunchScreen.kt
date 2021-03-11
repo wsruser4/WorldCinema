@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import com.example.worldcinema.MovieScreen
 import com.example.worldcinema.R
 import com.example.worldcinema.SignUp.SignUpScreen
 
@@ -16,6 +17,6 @@ class LaunchScreen : AppCompatActivity() {
             val intent = Intent(this, SignUpScreen::class.java)
             startActivity(intent)
             finish()
-        }, 3000)
+        }, 1500)
     }
 }

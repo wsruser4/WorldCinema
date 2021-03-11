@@ -21,4 +21,18 @@
     <string name="podb">Подборка</string>
     <string name="collect">Коллекции</string>
     <string name="prof">Профиль</string>
+    <string name="fant">Фэнтези</string>
+    <string name="pricl">Приключения</string>
+    <string name="teleser">Телесериал</string>
+    <string name="watch2">Смотреть</string>
+    <string name="opis">Описание</string>
+    <string name="opistext">Eliot is in his happy place, unaware that he is being possessed by the Monster. To have control over his body, Eliot must travel to the place that contains his greatest regret: turning down Quentin when he suggests he and Eliot should be together after their memories are restored of their life in past-Fillory, happily living together and raising a family.</string>
+    <string name="episods">\'Эпизоды</string>
+    <string name="epis">Эпизоды</string>
+    <string name="magic">Нелегальная магия</string>
+    <string name="e1">2015</string>
+    <string name="magistok">Источник магии</string>
+    <string name="e2">2016</string>
+    <string name="text3">Квентин и Джулия приглашены на тест их волшебных навыков...</string>
+    <string name="totext">Пирл расследует инцидент в Брейкбиллс и дисциплинарные...</string>
 </resources>
