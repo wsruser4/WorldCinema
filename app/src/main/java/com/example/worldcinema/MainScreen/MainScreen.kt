@@ -3,7 +3,7 @@ package com.example.worldcinema.MainScreen
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.worldcinema.MovieScreen
+import com.example.worldcinema.MovieScreen.MovieScreen
 import com.example.worldcinema.R
 import kotlinx.android.synthetic.main.activity_main_screen.*
 

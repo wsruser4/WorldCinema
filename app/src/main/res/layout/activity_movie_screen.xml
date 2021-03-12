@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MovieScreen"
+    tools:context=".MovieScreen.MovieScreen"
     android:background="@color/maincolor">
 
     <LinearLayout
@@ -31,10 +31,10 @@
             <ImageView
                 android:id="@+id/imageView5"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                app:srcCompat="@drawable/back"
+                android:layout_height="17dp"
+                android:layout_marginLeft="10dp"
                 android:layout_marginTop="55dp"
-                android:layout_marginLeft="10dp"/>
+                app:srcCompat="@drawable/back" />
 
             <TextView
                 android:layout_width="wrap_content"

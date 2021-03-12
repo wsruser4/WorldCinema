@@ -119,27 +119,32 @@
                 <ImageView
                     android:layout_width="150dp"
                     android:layout_height="216dp"
-                    android:src="@drawable/limg"/>
+                    android:src="@drawable/img1"
+                    android:paddingLeft="16dp"/>
 
                 <ImageView
                     android:layout_width="150dp"
                     android:layout_height="216dp"
-                    android:src="@drawable/gimg"/>
+                    android:src="@drawable/img2"
+                    android:paddingLeft="16dp"/>
 
                 <ImageView
                     android:layout_width="150dp"
                     android:layout_height="216dp"
-                    android:src="@drawable/simg"/>
+                    android:src="@drawable/img3"
+                    android:paddingLeft="16dp"/>
 
                 <ImageView
                     android:layout_width="150dp"
                     android:layout_height="216dp"
-                    android:src="@drawable/llimg"/>
+                    android:src="@drawable/img4"
+                    android:paddingLeft="16dp"/>
 
                 <ImageView
                     android:layout_width="150dp"
                     android:layout_height="216dp"
-                    android:src="@drawable/ggimg"/>
+                    android:src="@drawable/img5"
+                    android:paddingLeft="16dp"/>
 
             </LinearLayout>
 
